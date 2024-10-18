@@ -1,4 +1,4 @@
-###Advanced Hand Detection and Gesture Recognition
+Advanced Hand Detection and Gesture Recognition
 
 This project implements a real-time hand detection and gesture recognition system using Python, OpenCV, and MediaPipe. The system detects both left and right hands and tracks hand landmarks for various gestures. Additional functionalities include gesture-based interactions for future extensibility.
 
