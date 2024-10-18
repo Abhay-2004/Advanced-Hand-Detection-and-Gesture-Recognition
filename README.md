@@ -20,19 +20,16 @@ Requirements
 Installation
 
 	1.	Clone the repository:
-
-git clone https://github.com/Abhay-2004/Advanced-Hand-Detection-and-Gesture-Recognition.git
-cd Advanced-Hand-Detection-and-Gesture-Recognition
+    git clone https://github.com/Abhay-2004/Advanced-Hand-Detection-and-Gesture-Recognition.git
+    2. cd Advanced-Hand-Detection-and-Gesture-Recognition
 
 
 	2.	Install dependencies:
-
-pip install opencv-python mediapipe protobuf
+    pip install opencv-python mediapipe protobuf
 
 
 	3.	Run the script:
-
-python hand_detection.py
+    python hand_detection.py
 
 
 
